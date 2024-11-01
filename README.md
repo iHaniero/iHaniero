@@ -1,5 +1,5 @@
 
-<h1 align="center">iHaniero</h1>
+<h1 align="center">🎮 iHaniero 👾</h1>
 
 <br>
 
@@ -11,33 +11,44 @@
 
 <br>
 
+<h2 align="left">🎓 Estudo em:</h2>
+<br>
 <div>
-  <a href = "mailto:haniero.iuchi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://memoria.araquari.ifc.edu.br">
+    <img src="Imagens/logo-ifc.png" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> 
 </div>
 
 <br>
 
-<h2 align="left">Estudo em:</h2>
-<div>
-  <img src="" />
-</div>
-
-<h2 align="left">Estou aprendendo:</h2>
+<h2 align="left">📕 Estou aprendendo:</h2>
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" />
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" />  
 </div>
 
-<h2 align="left">Uso as ferramentas:</h2>
+<h2 align="left">🛠️ Uso as ferramentas:</h2>
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" height="60" />
+  &nbsp; &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
+</div>
+
+<br><br><br><br>
+
+<div>
+  <a href = "mailto:haniero.iuchi@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a> 
 </div>
 
 <br clear="both">

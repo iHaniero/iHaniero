@@ -32,28 +32,25 @@
 </div>
 
 <h2 align="left">🛠️ Uso as ferramentas:</h2> 
-<br>
-<div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://unity.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" height="60" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" height="60" />
   </a>
-  &nbsp; &nbsp; &nbsp;
   <a href="https://code.visualstudio.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
   </a>
 </div>
 
 <br>
 
-<div>
+<div style="display: flex; align-items: center; gap: 15px;">
   <a href="mailto:haniero.iuchi@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/haniero-iuchi-169a81271/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a> 
 </div>
-
 
 <br clear="both">

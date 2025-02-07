@@ -4,9 +4,10 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/iHaniero">
+<a href="https://github.com/iHaniero" style="text-decoration: none;">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHaniero&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iHaniero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
 <br>
@@ -31,26 +32,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" />  
 </div>
 
-<h2 align="left">🛠️ Uso as ferramentas:</h2> 
+## 🛠️ Uso as ferramentas:
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://unity.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" height="60" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
-  </a>
-</div>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" height="60">](https://unity.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60">](https://code.visualstudio.com)
 
-<br>
+## 📬 Contatos:
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <a href="mailto:haniero.iuchi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/haniero-iuchi-169a81271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a> 
-</div>
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:haniero.iuchi@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/haniero-iuchi-169a81271/)
+
+
+
 
 <br clear="both">
